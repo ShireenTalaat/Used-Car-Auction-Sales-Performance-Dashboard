@@ -8,7 +8,7 @@ This repository contains a **Used Car Auction Sales Performance Dashboard** buil
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![cars.jpg](https://github.com/ShireenTalaat/Used-Car-Auction-Sales-Performance-Dashboard/blob/main/cars.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ This repository contains a **Used Car Auction Sales Performance Dashboard** buil
 used-car-auction-dashboard/
 ├── cars.jpg          # Dashboard screenshot
 ├── data/
-│   └── used_car_sales.csv # Raw dataset (if included)
+│   └── used_car_sales.csv # Raw dataset (too big to be included)
 ├── reports/
 │   └── dashboard.pbix     # Power BI report file
 └── README.md              # This file
