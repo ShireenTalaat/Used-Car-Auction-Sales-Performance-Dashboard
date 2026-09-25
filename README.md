@@ -1,5 +1,4 @@
 # Used-Car-Auction-Sales-Performance-Dashboard
-# Used Car Auction Sales Performance Dashboard
 
 ## 📊 Overview
 
